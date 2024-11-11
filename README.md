@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de README em Markdown para o seu repositório no GitHub:
-
-```markdown
 # FUELCALC - Calculadora de Combustível
 
 **FUELCALC** é um projeto de previsão de preços de combustíveis (gasolina e etanol) no Brasil, com base em variáveis econômicas como inflação e preço do petróleo. Através de Análise Exploratória de Dados (EDA) e modelagem preditiva, o projeto permite estimar os preços futuros dos combustíveis, auxiliando na compreensão das tendências do mercado.
